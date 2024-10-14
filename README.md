@@ -3,8 +3,7 @@
 
 - 🔭 I’m currently working on AI/ML, Cloud Development, and Android Applications.
 - 🌱 Learning more about Embedded Systems, Automation, and Backend Technologies.
-- 📚 Student at **CMR College of Engineering and Technology**, pursuing **Electronics and Communication Engineering (ECE)**.
-- 💬 Ask me about **Android Development**, **Cloud Engineering**, and **AI**.
+- 📚 Diploma  at **Ellenki  College of Engineering and Technology** , **Electronics and Communication Engineering (ECE) Department **.
 - 📝 Check out my [Portfolio](https://rakesh-564.github.io/rakeshgamidiprofile.com/)
 
 ---
