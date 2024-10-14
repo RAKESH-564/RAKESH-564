@@ -24,11 +24,12 @@
 ---
 
 ## 📊 My GitHub Stats:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rakeshgamidi&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rakeshgamidi&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RAKESH-564&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RAKESH-564&show_icons=true&theme=radical)
 
 ### Detailed Stats:
-![My GitHub Stats](https://raw.githubusercontent.com/RAKESH-564/README.MD/main/Screenshot%202024-10-14%20230159.png)
+![My GitHub Stats](https://raw.githubusercontent.com/RAKESH-564/RAKESH-564/main/Screenshot%202024-10-14%20230159.png)
+
 
 ---
 
