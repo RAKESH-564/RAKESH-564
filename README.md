@@ -1,7 +1,7 @@
 ## Hello there 👋 I'm Rakesh Gamidi
 *Student at CMR College of Engineering and Technology, ECE Department*
 
-- 🔭 I’m currently working on AI/ML, Cloud Development, and Android Applications.
+- 🔭 I’m currently working on AI/ML, Cloud Development, and Internet Of Things.
 - 🌱 Learning more about Embedded Systems, Automation, and Backend Technologies.
 - 📚 Diploma  at *Ellenki  College of Engineering and Technology* , **Electronics and Communication Engineering (ECE) Department**.
 - 📝 Check out my [Portfolio](https://rakesh-564.github.io/rakeshgamidiprofile.com/)
